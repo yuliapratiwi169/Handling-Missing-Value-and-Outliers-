@@ -116,7 +116,7 @@ CustomerID,Genre,Age,Income,Spending Score
 0115,Female,18,65,48
 0116,Female,319,65,50
 0117,Female,63,65,43
-0118,Female,49,65,59
+0118,Female,249,65,59
 0119,Female,51,67,43
 0120,Female,50,67,57
 0121,Male,27,67,56
@@ -137,7 +137,7 @@ CustomerID,Genre,Age,Income,Spending Score
 0136,Female,29,73,88
 0137,Female,44,73,7
 0138,Male,32,73,73
-0139,Male,19,74,10
+0139,Male,319,74,10
 0140,Female,35,74,72
 0141,Female,57,75,5
 0142,Male,32,75,93
@@ -188,7 +188,7 @@ CustomerID,Genre,Age,Income,Spending Score
 0187,Female,54,101,24
 0188,Male,28,101,68
 0189,Female,41,103,17
-0190,Female,36,103,85
+0190,Female,236,103,85
 0191,Female,,103,23
 0192,Female,32,103,69
 0193,Male,33,113,8
