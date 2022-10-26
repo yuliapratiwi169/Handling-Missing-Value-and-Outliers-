@@ -1,6 +1,6 @@
 CustomerID,Genre,Age,Income,SpendingScore
 0001,Male,19,15,39
-0002,Male,,15,81
+0002,Male,32,15,81
 0003,Female,20,16,6
 0004,Female,23,16,77
 0005,Female,31,17,33
